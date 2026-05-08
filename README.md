@@ -8,17 +8,16 @@
 ### **Frontend**
 - React • TypeScript • TailwindCSS
 
-### **Testing & Automation**
-- Playwright (TypeScript)  
-- Postman • Newman  
+### Testing & Automation
+- Playwright (TypeScript) – UI & API testing
+- Postman, Newman
+- JMeter – performance & load testing
+- OWASP ZAP – basic web application security testing
 - CI/CD basics
 
 ### **Tools**
-- Git • GitHub  
+- Git • GitHub
 - Docker  
-- Discord/Teams automation  
-- JetBrains IDEs (via Student Pack)
-
 ---
 
 ## 📌 Featured Projects
