@@ -1,10 +1,3 @@
-# 👋 Hi, I'm Eimantas — Junior Software Developer
-
-I'm a Software Systems Engineering student at Vilnius University, focusing on backend development, automated testing, and practical system design.  
-I enjoy building clean, structured solutions and optimizing workflows for teams — from sprint planning to automated test pipelines.
-
----
-
 ## 🚀 Tech Stack
 
 ### **Backend**
@@ -39,16 +32,6 @@ A full-stack tool for managing sprint tasks, roles, and Discord notifications.
 - Discord webhook integration  
 - Activity log  
 - Deployed backend & frontend
-
----
-
-### 🔹 **Job Tracker App**
-A simple job application tracking system built with React + TypeScript.  
-**Repo:** https://github.com/eimanteras/job-tracker  
-**Features:**  
-- CRUD operations  
-- Status tracking  
-- Clean UI with Tailwind
 
 ---
 
